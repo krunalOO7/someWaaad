@@ -1,3 +1,3 @@
 #saMWaad
 
-[visit chatroom](https://sam-waad.web.app/) is realtime message sharing application.
+[visit SaMWaad](https://sam-waad.web.app/) is realtime message sharing application.
